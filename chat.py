@@ -20,3 +20,4 @@ def chat_with_bot(user_query):
     return response
 
 eel.start('index.html', size=(1000, 1000))
+# this is python script
