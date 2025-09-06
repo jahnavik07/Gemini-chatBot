@@ -40,4 +40,5 @@ def chat_with_bot(user_query: str):
         return "⚠️ Sorry, something went wrong. Please try again."
 
 # Start frontend
+
 eel.start('index.html', size=(1000, 1000))
