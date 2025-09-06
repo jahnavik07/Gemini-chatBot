@@ -1,0 +1,8 @@
+
+google-genai>=0.3.0     # Gemini API (new Google SDK)
+eel>=0.16.0             # Frontend-backend bridge
+python-dotenv>=1.0.1    # Manage API keys via .env
+
+
+requests>=2.32.3        # General HTTP requests
+flask>=3.0.3            # Optional: lightweight REST API if needed later
